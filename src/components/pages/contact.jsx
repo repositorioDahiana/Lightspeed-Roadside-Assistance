@@ -4,7 +4,7 @@ export default function Contact() {
         <h2 className="text-4xl font-extrabold text-[#FFD400] mb-6">Contact Us</h2>
         <p className="max-w-2xl text-lg mb-10">
           Do you have any questions or want to join as a provider?  
-          Send us a message and we’ll get back to you as soon as possible.
+          Send us a message and we’ll get back to you as soon as possible
         </p>
   
         <form
